@@ -1,0 +1,12 @@
+streamlit==1.41.1
+openai==0.28.0
+gtts==2.5.4
+playsound==1.3.0
+SpeechRecognition==3.13.0
+matplotlib==3.9.0
+python-dotenv==1.0.1
+# Optional dependencies for actual model integration
+# replicate==0.18.0  # If using Replicate for Llama-3
+# torch==2.1.0  # If running Llama-3 locally
+# transformers==4.35.0  # If running Llama-3 locally
+# accelerate==0.25.0  # If running Llama-3 locally
